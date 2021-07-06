@@ -20,7 +20,14 @@ Here are some ideas to get you started:
   - reproducible programming
   - complex apps in shiny 
 - 💬 Ask me about ...
+  - coding R
+  - neuroimaging
+  - plants and pets 
 - 📫 How to reach me: ...
+  - <wulms@uni-muenster.de> 
 - 😄 Pronouns: ...
   - he/him/his 
 - ⚡ Fun fact: ...
+
+
+[@citation-identifier]
