@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **wulms/wulms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,4 +30,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[@citation-identifier]
+## References
+
+1. Bathel, A., Schweizer, L., Stude, P., Glaubitz, B., Wulms, N., Delice, S., & Schmidt‑Wilcke, T. (2018). Increased thalamic glutamate/glutamine levels in migraineurs. Journal of Headache and Pain,19(1). https://doi.org/10.1007/10194.1129-2377  
+
+2. Schmidt‑Wilcke, T., Wulms, N., Heba, S., Pleger, B., Puts, N. A., Glaubitz, B., Kalisch, T., Tegenthoff, M., & Dinse,H. R. (2018). Structural changes in brain morphology induced by brief periods of repetitive sensory stimulation.NeuroImage,165. https://doi.org/10.1016/j.neuroimage.2017.10.016  
+
+3. Neumann, L., Wulms, N., Witte, V., Spisak, T., Zunhammer, M., Bingel, U., & Schmidt‑Wilcke, T. (2021). Networkproperties and regional brain morphology of the insular cortex correlate with individual pain thresholds. HumanBrain Mapping. https://doi.org/10.1002/hbm.25588  
+
+4. Fisch, L., Ernsting, J., Winter, N. R., Holstein, V., Leenings, R., Beisemann, M., Sarink, K., Emden, D., Opel, N.,Redlich, R., Repple, J., Grotegerd, D., Meinert, S., Wulms, N., Minnerup, H., Hirsch, J. G., Niendorf, T., Endemann,B., Bamberg, F., ... Hahn, T. (2021). Predicting brain‑age from raw T 1 ‑weighted Magnetic Resonance Imaging datausing 3D Convolutional Neural Networks. arXiv preprint http://arxiv.org/abs/2103.11695  
+
+5. Wulms, N., Eppe, S., & Minnerup, H. (2021). BiDirect bids converter(Version v0.5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.5031574  
+
+5. Wulms, N., Eppe, S., & Minnerup, H.(2021). BiDirect neuroimaging pipelines: first release (version v0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.5031801  
+
+6. Wulms, N., & Dehgan,M.(2021). TRIC pipelines: Release of dti pipeline (version v0.1)[Computer software]. Zenodo.https://doi.org/10.5281/zenodo.5031803
