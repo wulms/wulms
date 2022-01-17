@@ -40,8 +40,12 @@ Here are some ideas to get you started:
 
 4. Fisch, L., Ernsting, J., Winter, N. R., Holstein, V., Leenings, R., Beisemann, M., Sarink, K., Emden, D., Opel, N.,Redlich, R., Repple, J., Grotegerd, D., Meinert, S., Wulms, N., Minnerup, H., Hirsch, J. G., Niendorf, T., Endemann,B., Bamberg, F., ... Hahn, T. (2021). Predicting brain‑age from raw T 1 ‑weighted Magnetic Resonance Imaging datausing 3D Convolutional Neural Networks. arXiv preprint http://arxiv.org/abs/2103.11695  
 
-5. Wulms, N., Eppe, S., & Minnerup, H. (2021). BiDirect bids converter(Version v0.5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.5031574  
+5. ms N, Redmann L, Herpertz C, Bonberg N, Berger K, Sundermann B and Minnerup H (2022) The Effect of Training Sample Size on the Prediction of White Matter Hyperintensity Volume in a Healthy Population Using BIANCA. Front. Aging Neurosci. 13:720636. doi: 10.3389/fnagi.2021.720636
 
-5. Wulms, N., Eppe, S., & Minnerup, H.(2021). BiDirect neuroimaging pipelines: first release (version v0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.5031801  
+## Code development
+
+6. Wulms, N., Eppe, S., & Minnerup, H. (2021). BiDirect bids converter(Version v0.5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.5031574  
+
+7. Wulms, N., Eppe, S., & Minnerup, H.(2021). BiDirect neuroimaging pipelines: first release (version v0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.5031801  
 
 6. Wulms, N., & Dehgan,M.(2021). TRIC pipelines: Release of dti pipeline (version v0.1)[Computer software]. Zenodo.https://doi.org/10.5281/zenodo.5031803
