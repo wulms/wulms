@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 4. Fisch, L., Ernsting, J., Winter, N. R., Holstein, V., Leenings, R., Beisemann, M., Sarink, K., Emden, D., Opel, N.,Redlich, R., Repple, J., Grotegerd, D., Meinert, S., Wulms, N., Minnerup, H., Hirsch, J. G., Niendorf, T., Endemann,B., Bamberg, F., ... Hahn, T. (2021). Predicting brain‑age from raw T 1 ‑weighted Magnetic Resonance Imaging datausing 3D Convolutional Neural Networks. arXiv preprint http://arxiv.org/abs/2103.11695  
 
-5. Wulms N, Redmann L, Herpertz C, Bonberg N, Berger K, Sundermann B and Minnerup H (2022) The Effect of Training Sample Size on the Prediction of White Matter Hyperintensity Volume in a Healthy Population Using BIANCA. Front. Aging Neurosci. 13:720636. doi: 10.3389/fnagi.2021.720636
+5. Wulms N, Redmann L, Herpertz C, Bonberg N, Berger K, Sundermann B and Minnerup H (2022) The Effect of Training Sample Size on the Prediction of White Matter Hyperintensity Volume in a Healthy Population Using BIANCA. Front. Aging Neurosci. 13:720636. doi: 10.3389/fnagi.2021.720636 https://www.frontiersin.org/articles/10.3389/fnagi.2021.720636/full
 
 ## Code development
 
