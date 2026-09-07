@@ -149,7 +149,7 @@ https://doi.org/10.3389/fnagi.2021.720636
 
 ## 🎓 Dissertation
 
-**Magnetresonanztomograhie in Populationsstudien: Optimierung und Standardisierung der Datenverarbeitung**
+**Magnetresonanztomographie in Populationsstudien: Optimierung und Standardisierung der Datenverarbeitung**  
 Doctoral dissertation, University of Münster, 2024.
 
-See the [complete publication list](PUBLICATIONS.md) for peer-reviewed articles, preprints, research software, and other academic work.
+[📖 Dissertation record](https://d-nb.info/1355255791) · [📚 Complete publication list](PUBLICATIONS.md)
