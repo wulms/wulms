@@ -6,7 +6,7 @@ This page contains a more complete overview of my academic publications, preprin
 
 * [Google Scholar](https://scholar.google.com/citations?user=CrPmQw8AAAAJ&hl=en)
 * [ORCID](https://orcid.org/0000-0002-3418-9978)
-* [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Niklas+Wulms)
+* [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Wulms+N&cauthor_id=38332362)
 * [ResearchGate](https://www.researchgate.net/profile/Niklas-Wulms)
 
 ---
