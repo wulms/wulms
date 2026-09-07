@@ -140,9 +140,13 @@ https://doi.org/10.5281/zenodo.5031803
 
 # Dissertation
 
-**Wulms, Niklas. (2024).**
-**Magnetresonanztomograhie in Populationsstudien: Optimierung und Standardisierung der Datenverarbeitung.**
-Doctoral dissertation, University of Münster.
+**Wulms, Niklas Christopher. (2024).**  
+**Magnetresonanztomographie in Populationsstudien: Optimierung und Standardisierung der Datenverarbeitung.**  
+Doctoral dissertation, University of Münster, Institute of Epidemiology and Social Medicine.  
+Degree: Dr. rer. medic.
+
+- [German National Library](https://d-nb.info/1355255791)
+- [University of Münster dissertation index](https://medbib.uni-muenster.de/php/diss/diss-indices.php?Sortierung=Autor+DESC&Suchfeld=Autor&Suchwort=)
 
 ---
 
