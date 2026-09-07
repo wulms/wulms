@@ -153,3 +153,7 @@ https://doi.org/10.3389/fnagi.2021.720636
 Doctoral dissertation, University of Münster, 2024.
 
 [📖 Dissertation record](https://d-nb.info/1355255791) · [📚 Complete publication list](PUBLICATIONS.md)
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/niklas-wulms/)
