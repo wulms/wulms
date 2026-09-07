@@ -1,51 +1,155 @@
-## Hi there 👋
+# Hi there 👋 I'm Nik
 
-<!--
-**wulms/wulms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Biologist, data scientist, data engineer, and data architect with a background in **medical sciences, epidemiology, neuroimaging, and reproducible research**.
 
-Here are some ideas to get you started:
--->
+My work sits at the intersection of **data platforms, analytics engineering, software engineering, and applied research**. I enjoy turning messy data and workflows into systems that are reproducible, understandable, testable, and maintainable.
 
+## 🔭 What I'm currently working on
 
+### 🏗️ Data platforms & analytics engineering
 
-- 🔭 I’m currently working on ...
-  - neuroimaging data
-  - segmentation of white-matter hyperintensities
-  - data processing pipelines
-- 🌱 I’m currently learning ...
-  - R (shiny) 
-- 👯 I’m looking to collaborate on ...
-  - open-source projects on imaging, data science or data visualization 
-- 🤔 I’m looking for help with ...
-  - reproducible programming
-  - complex apps in shiny 
-- 💬 Ask me about ...
-  - coding R
-  - neuroimaging
-  - plants and pets 
-- 📫 How to reach me: ...
-  - <wulms@uni-muenster.de> 
-- 😄 Pronouns: ...
-  - he/him/his 
-- ⚡ Fun fact: ...
+* dbt
+* BigQuery
+* SQL / ELT
+* analytical data modelling
+* data warehouse and medallion-style architectures
+* data quality, contracts, testing, and observability
+* reproducible and maintainable data pipelines
 
+### 🤖 AI-assisted engineering
 
-## References
+I'm exploring how AI agents can become useful parts of real development workflows rather than isolated coding assistants:
 
-1. Bathel, A., Schweizer, L., Stude, P., Glaubitz, B., Wulms, N., Delice, S., & Schmidt‑Wilcke, T. (2018). Increased thalamic glutamate/glutamine levels in migraineurs. Journal of Headache and Pain,19(1). https://doi.org/10.1007/10194.1129-2377  
+* repository-level agent instructions
+* AI-assisted development and code review
+* automated QA and documentation
+* reusable agent skills and workflows
+* context-efficient repository structures
+* Claude, Codex, ChatGPT, and Cursor
 
-2. Schmidt‑Wilcke, T., Wulms, N., Heba, S., Pleger, B., Puts, N. A., Glaubitz, B., Kalisch, T., Tegenthoff, M., & Dinse,H. R. (2018). Structural changes in brain morphology induced by brief periods of repetitive sensory stimulation.NeuroImage,165. https://doi.org/10.1016/j.neuroimage.2017.10.016  
+### 🧠 Knowledge & developer infrastructure
 
-3. Neumann, L., Wulms, N., Witte, V., Spisak, T., Zunhammer, M., Bingel, U., & Schmidt‑Wilcke, T. (2021). Networkproperties and regional brain morphology of the insular cortex correlate with individual pain thresholds. HumanBrain Mapping. https://doi.org/10.1002/hbm.25588  
+I'm particularly interested in connecting:
 
-4. Fisch, L., Ernsting, J., Winter, N. R., Holstein, V., Leenings, R., Beisemann, M., Sarink, K., Emden, D., Opel, N.,Redlich, R., Repple, J., Grotegerd, D., Meinert, S., Wulms, N., Minnerup, H., Hirsch, J. G., Niendorf, T., Endemann,B., Bamberg, F., ... Hahn, T. (2021). Predicting brain‑age from raw T 1 ‑weighted Magnetic Resonance Imaging datausing 3D Convolutional Neural Networks. arXiv preprint http://arxiv.org/abs/2103.11695  
+**research → knowledge → issues → implementation → documentation**
 
-5. Wulms N, Redmann L, Herpertz C, Bonberg N, Berger K, Sundermann B and Minnerup H (2022) The Effect of Training Sample Size on the Prediction of White Matter Hyperintensity Volume in a Healthy Population Using BIANCA. Front. Aging Neurosci. 13:720636. doi: 10.3389/fnagi.2021.720636 https://www.frontiersin.org/articles/10.3389/fnagi.2021.720636/full
+Current experiments include:
 
-## Code development
+* reusable repository standards and templates
+* second-brain approaches for technical and scientific knowledge
+* structured research repositories
+* personal developer infrastructure
+* workflows that allow humans and AI agents to work from the same source of truth
 
-6. Wulms, N., Eppe, S., & Minnerup, H. (2021). BiDirect bids converter(Version v0.5) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.5031574  
+### 📊 Analytics & data science
 
-7. Wulms, N., Eppe, S., & Minnerup, H.(2021). BiDirect neuroimaging pipelines: first release (version v0.1) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.5031801  
+* behavioural and product analytics
+* KPI and metric design
+* cohort, retention, and lifecycle analyses
+* statistical modelling
+* reproducible analytical pipelines
+* dashboards and data visualisation
 
-6. Wulms, N., & Dehgan,M.(2021). TRIC pipelines: Release of dti pipeline (version v0.1)[Computer software]. Zenodo.https://doi.org/10.5281/zenodo.5031803
+---
+
+## 🛠️ Tools I work with
+
+### Data & analytics
+
+`SQL` · `dbt` · `BigQuery` · `Looker / Looker Studio` · `Spark` · `Databricks`
+
+### Programming
+
+`R` · `Python` · `Java`
+
+### Pipelines & infrastructure
+
+`Airflow` · `GCP` · `GitHub Actions` · `Docker`
+
+### Research & communication
+
+`Quarto` · `R Markdown` · `Shiny` · reproducible reporting · scientific visualisation
+
+### Development workflow
+
+`Git` · `GitHub` · `VS Code` · `Cursor` · `Claude` · `ChatGPT` · `Codex`
+
+---
+
+## 🌱 Things I'm currently exploring
+
+* AI-native software development
+* scalable repository structures for humans and coding agents
+* context-efficient codebases and documentation
+* automated code review and QA workflows
+* reusable agent skills and instructions
+* second-brain and knowledge-management systems
+* modern data architecture and analytics engineering patterns
+* keeping documentation alive instead of letting it slowly fossilise 🏺
+
+---
+
+## 👯 I'm interested in collaborating on
+
+* open-source data engineering
+* analytics engineering
+* reproducible research
+* scientific software
+* developer tooling
+* AI-assisted development workflows
+* data visualisation
+* neuroimaging and medical-data projects
+
+---
+
+## 💬 Ask me about
+
+* R and data analysis
+* SQL, dbt, and analytics engineering
+* data warehouse architecture
+* reproducible data pipelines
+* neuroimaging and MRI processing
+* BIDS and scientific software
+* Git and repository workflows
+* AI coding agents
+* plants and pets 🌱🐈
+
+---
+
+# 🔬 Research & publications
+
+My academic background is in **neuroimaging, epidemiology, medical sciences, and reproducible research**, with a particular focus on MRI processing, brain structure, image segmentation, and reproducible scientific data pipelines.
+
+📚 **[Complete publication list](PUBLICATIONS.md)**
+🎓 **[Google Scholar](https://scholar.google.com/citations?user=CrPmQw8AAAAJ&hl=en)**
+🧬 **[ORCID](https://orcid.org/0000-0002-3418-9978)**
+🔎 **[PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Niklas+Wulms)**
+📖 **[ResearchGate](https://www.researchgate.net/profile/Niklas-Wulms)**
+
+## Selected publications
+
+### Reproducible neuroimaging & data infrastructure
+
+**Wulms, N.**, Kugel, H., Cnyrim, C., Tenberge, A., Schwindt, W., Dannlowski, U., Berger, K., Sundermann, B., & Minnerup, H. (2024).
+**Cerebral MRI in a prospective cohort study on depression and atherosclerosis: the BiDirect sample, processing pipelines, and analysis tools.**
+*European Radiology Experimental, 8*, 16.
+https://doi.org/10.1186/s41747-023-00415-z
+
+**Wulms, N.**, Eppe, S., Dehghan-Nayyeri, M., Streeter, A. J., Bonberg, N., Berger, K., Sundermann, B., & Minnerup, H. (2023).
+**The R package for DICOM to brain imaging data structure conversion.**
+*Scientific Data, 10*, 673.
+https://doi.org/10.1038/s41597-023-02583-4
+
+**Wulms, N.**, Redmann, L., Herpertz, C., Bonberg, N., Berger, K., Sundermann, B., & Minnerup, H. (2022).
+**The Effect of Training Sample Size on the Prediction of White Matter Hyperintensity Volume in a Healthy Population Using BIANCA.**
+*Frontiers in Aging Neuroscience, 13*, 720636.
+https://doi.org/10.3389/fnagi.2021.720636
+
+---
+
+## 🎓 Dissertation
+
+**Magnetresonanztomograhie in Populationsstudien: Optimierung und Standardisierung der Datenverarbeitung**
+Doctoral dissertation, University of Münster, 2024.
+
+See the [complete publication list](PUBLICATIONS.md) for peer-reviewed articles, preprints, research software, and other academic work.
